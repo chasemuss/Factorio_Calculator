@@ -1,4 +1,4 @@
-from Data.new_producer import Producer
+from Data.Producer import Producer
+from Data.Recipes import Recipe
 
-am1 = Producer('Assembling Machine 1')
-bc = Producer('Biochamber')
+iron_plate = Recipe('Iron Plate')

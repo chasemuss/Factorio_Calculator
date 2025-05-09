@@ -1,0 +1,12 @@
+{
+    "Gears": {
+        "Ingredients": [
+            {
+                "Name": "Iron Plates",
+                "Amount": 2
+            }
+        ],
+        "Time": 0.5,
+        "Crafting Machines": []
+    }
+}
