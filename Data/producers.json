@@ -34,5 +34,17 @@
         "Module Slots": 4,
         "Energy Consumption": 500,
         "Energy Consumption Type": "Nutrients"
+    },
+    "Foundry": {
+        "Crafting Speed": {
+            "Normal": 4,
+            "Uncommon": 5.2,
+            "Rare": 6.4,
+            "Epic": 7.6,
+            "Legendary": 10
+        },
+        "Module Slots": 4,
+        "Energy Consumption": 2500,
+        "Energy Consumption Type": "Electrical"
     }
 }

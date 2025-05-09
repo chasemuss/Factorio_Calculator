@@ -1,12 +1,22 @@
 {
-    "Gears": {
-        "Ingredients": [
-            {
+    "Gears": [
+        {
+            "Ingredients": [{
                 "Name": "Iron Plates",
                 "Amount": 2
-            }
-        ],
-        "Time": 0.5,
-        "Crafting Machines": []
-    }
+                }
+            ],
+            "Time": 0.5,
+            "Crafting Machines": ["Assembling Machine"]
+        },
+        {
+            "Ingredients": [{
+                "Name": "Molten Iron",
+                "Amount": 10
+                }
+            ],
+            "Time": 1,
+            "Crafting Machines": ["Foundry"]
+        }
+    ]
 }

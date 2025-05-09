@@ -1,0 +1,16 @@
+[Iron-Plate]
+[Iron-Plate.Furnace]
+ingredients = [{"Name" = "Iron Ore", "Amount" = 1}]
+time = 3.2
+
+[Iron-Plate.Foundry]
+ingredients = [{"Name" = "Molten Iron", "Amount" = 20}]
+
+[Gears]
+[Gears.Assembling_Machines]
+ingredients = [{"Name" = "Iron Plates", "Amount" = 2}]
+time = 0.5
+
+[Gears.Foundry]
+ingredients = [{"Name" = "Molten Iron", "Amount" = 10}]
+time = 1
