@@ -1,0 +1,38 @@
+{
+    "Assembling Machine 3": {
+        "Crafting Speed": {
+            "Normal": 1.25,
+            "Uncommon": 1.625,
+            "Rare": 2,
+            "Epic": 2.375,
+            "Legendary": 3.125
+        },
+        "Module Slots": 4,
+        "Energy Consumption": 375,
+        "Energy Consumption Type": "Electrical"
+    },
+    "Assembling Machine 1": {
+        "Crafting Speed": {
+            "Normal": 0.5,
+            "Uncommon": 0.65,
+            "Rare": 0.8,
+            "Epic": 0.95,
+            "Legendary": 1.25
+        },
+        "Module Slots": 0,
+        "Energy Consumption": 75,
+        "Energy Consumption Type": "Electrical"
+    },
+    "Biochamber": {
+        "Crafting Speed": {
+            "Normal": 2,
+            "Uncommon": 2.6,
+            "Rare": 3.2,
+            "Epic": 3.8,
+            "Legendary": 5
+        },
+        "Module Slots": 4,
+        "Energy Consumption": 500,
+        "Energy Consumption Type": "Nutrients"
+    }
+}
